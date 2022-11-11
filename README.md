@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rafly-dev
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on Open Source
-- 📫 How to reach me raflydevelop@gmail.com or @rafly_amrie on IG
+- 📫 How to reach me raflydevelop@gmail.com or @rafly_develop on IG
 
 <div style="width: 100%; justify-content: center;" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafly-amrie&show_icons=true&locale=en&layout=compact&theme=dark" style="align-center">
