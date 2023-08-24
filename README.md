@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rafly-dev
 - 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin and Flutter
 - 📫 How to reach me raflydevelop@gmail.com or @rafly_develop on IG
 
 <div style="width: 100%; justify-content: center;" >
